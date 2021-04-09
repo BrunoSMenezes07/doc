@@ -21,15 +21,16 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
-
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [ ] Tela inicial - Splashscreen
+- [ ] **Integrar o mapa do google na aplicação**
+- [ ] **Integrar a api de dados da covid 19 na aplicação**
+- [ ] Visualizar dados da Covid 19 em números
+- [ ] Visualizar dados da Covid 19 em gráficos
+- [ ] Salvar localidade do usuário
+- [ ] Salvar localidade escolhida no mapa
+- [ ] Visualizar notificações de notícias da Covid 19
 
 # Tecnologias Usadas
 
