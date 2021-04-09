@@ -1,7 +1,6 @@
 # Título do Projeto
 
-
-![Capa do Projeto](https://i.imgur.com/ZEWwPir.png)
+<img src="https://i.imgur.com/ZEWwPir.png" height="200">
 
 # Sobre o Projeto
 
