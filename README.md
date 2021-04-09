@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+A situação atual do projeto é:
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
