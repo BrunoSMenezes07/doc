@@ -23,7 +23,7 @@ A situação atual do projeto é:
 
 # Requisitos Funcionais 
 
-- [ ] Tela inicial - Splashscreen
+- [ ] Visualizar Splashscreen
 - [ ] **Integrar o mapa do google na aplicação**
 - [ ] **Integrar a api de dados da covid 19 na aplicação**
 - [ ] Visualizar dados da Covid 19 em números
@@ -46,7 +46,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+[Team FlutterBirds](https://github.com/orgs/FlutterBirds/people)
 
 # Licença
 
