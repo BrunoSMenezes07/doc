@@ -4,11 +4,7 @@
 
 # Sobre o Projeto
 
-A situação atual do projeto é:
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
+🚧  Em desenvolvimento . . .
 
 # Índice/Sumário
 
