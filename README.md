@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-🚧  Em desenvolvimento . . .
+🚧  **Em desenvolvimento . . .**
 
 # Índice/Sumário
 
@@ -20,8 +20,8 @@
 # Requisitos Funcionais 
 
 - [ ] Visualizar Splashscreen
-- [ ] **Integrar o mapa do google na aplicação**
-- [ ] **Integrar a api de dados da covid 19 na aplicação**
+- [ ] Integrar o mapa do google na aplicação
+- [ ] Integrar a api de dados da Covid 19 na aplicação
 - [ ] Visualizar dados da Covid 19 em números
 - [ ] Visualizar dados da Covid 19 em gráficos
 - [ ] Salvar localidade do usuário
@@ -35,6 +35,7 @@
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Angular](https://angular.io/)
 
 # Contribuição
 
@@ -44,10 +45,64 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 [Team FlutterBirds](https://github.com/orgs/FlutterBirds/people)
 
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/charleslana"><img src="https://avatars.githubusercontent.com/u/63615970?s=120&v=4" width="100px;" alt=""/></a><br />
+        <sub><b>Charles</b></sub><br />
+        <a href="" title="Code">💻</a>
+        <a href="" title="Documentation">📖
+        <a href="" title="Tests">⚠️</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/brunomenezes29"><img src="https://avatars.githubusercontent.com/u/80432547?s=120&v=4" width="100px;" alt=""/></a><br />
+        <sub><b>Bruno</b></sub><br />
+        <a href="" title="Code">💻</a>
+        <a href="" title="Documentation">📖
+        <a href="" title="Tests">⚠️</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/larissasx"><img src="https://avatars.githubusercontent.com/u/74792292?s=120&v=4" width="100px;" alt=""/></a><br />
+        <sub><b>Larissa</b></sub><br />
+        <a href="" title="Code">💻</a>
+        <a href="" title="Documentation">📖
+        <a href="" title="Tests">⚠️</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Luizrochareis"><img src="https://avatars.githubusercontent.com/u/79947733?s=120&v=4" width="100px;" alt=""/></a><br />
+        <sub><b>Luiz</b></sub><br />
+        <a href="" title="Code">💻</a>
+        <a href="" title="Documentation">📖
+        <a href="" title="Tests">⚠️</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MatheusGomesLeite"><img src="https://avatars.githubusercontent.com/u/80298987?s=120&v=4" width="100px;" alt=""/></a><br />
+        <sub><b>Matheus</b></sub><br />
+        <a href="" title="Code">💻</a>
+        <a href="" title="Documentation">📖
+        <a href="" title="Tests">⚠️</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Paul-Ric"><img src="https://avatars.githubusercontent.com/u/66745132?s=120&v=4" width="100px;" alt=""/></a><br />
+        <sub><b>Paulo</b></sub><br />
+        <a href="" title="Code">💻</a>
+        <a href="" title="Documentation">📖
+        <a href="" title="Tests">⚠️</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/taisplicado"><img src="https://avatars.githubusercontent.com/u/65674214?s=120&v=4" width="100px;" alt=""/></a><br />
+        <sub><b>Tais</b></sub><br />
+        <a href="" title="Code">💻</a>
+        <a href="" title="Documentation">📖
+        <a href="" title="Tests">⚠️</a>
+    </td>
+    </tr>
+</table>
+
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Agradecimento a todos que contribuiram para a execução do projeto.
