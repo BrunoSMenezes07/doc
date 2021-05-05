@@ -20,8 +20,8 @@
 # Requisitos Funcionais 
 
 - [ ] Integrar uma api
-- [ ] Listar informações
-- [ ] Salvar informações
+- [ ] Buscar dados
+- [ ] Listar dados
 - [ ] Salvar localidade do usuário
 
 # Tecnologias Usadas
