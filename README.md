@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-🚧  **Em desenvolvimento . . .**
+🚧  **Em desenvolvimento**
 
 # Índice/Sumário
 
@@ -19,14 +19,10 @@
 
 # Requisitos Funcionais 
 
-- [ ] Visualizar Splashscreen
-- [ ] Integrar o mapa do google na aplicação
-- [ ] Integrar a api de dados da Covid 19 na aplicação
-- [ ] Visualizar dados da Covid 19 em números
-- [ ] Visualizar dados da Covid 19 em gráficos
+- [ ] Integrar uma api
+- [ ] Listar informações
+- [ ] Salvar informações
 - [ ] Salvar localidade do usuário
-- [ ] Salvar localidade escolhida no mapa
-- [ ] Visualizar notificações de notícias da Covid 19
 
 # Tecnologias Usadas
 
